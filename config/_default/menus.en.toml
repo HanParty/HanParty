@@ -1,0 +1,49 @@
+[[main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[main]]
+  name = "Proclamation"
+  url = "/proclamation/"
+  weight =3
+
+[[main]]
+  name = "News"
+  url = "/news/"
+  weight = 4
+
+[[main]]
+  name = "Organization"
+  url = "/organization/"
+  weight = 5
+
+[[main]]
+  name = "Articles"
+  url = "/articles/"
+  weight = 6
+
+[[main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 7
+
+[[main]]
+  name = "Videos"
+  url = "/videos/"
+  weight = 8
+
+[[main]]
+  name = "Docs"
+  url = "/docs/"
+  weight = 9
+
+[[main]]
+  name = "Communication"
+  url = "/communication/"
+  weight =10

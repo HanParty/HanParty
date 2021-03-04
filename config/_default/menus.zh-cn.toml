@@ -1,0 +1,49 @@
+[[main]]
+  name = "首页"
+  url = "/"
+  weight = 1
+
+[[main]]
+  name = "关于汉党"
+  url = "/about/"
+  weight = 2
+
+[[main]]
+  name = "公告"
+  url = "/proclamation/"
+  weight = 3
+
+[[main]]
+  name = "新闻"
+  url = "/news/"
+  weight = 4
+
+[[main]]
+  name = "组织"
+  url = "/organization/"
+  weight = 5
+
+[[main]]
+  name = "文章"
+  url = "/articles/"
+  weight = 6
+
+[[main]]
+  name = "贴子"
+  url = "/posts/"
+  weight = 7
+
+[[main]]
+  name = "视频"
+  url = "/videos/"
+  weight = 8
+
+[[main]]
+  name = "文档"
+  url = "/docs/"
+  weight = 9
+
+[[main]]
+  name = "交流"
+  url = "/communication/"
+  weight =10

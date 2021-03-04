@@ -1,0 +1,16 @@
+[en]
+  languageCode = "en"
+  languageName = "English"
+  contentDir = "content/en"
+
+[zh-cn]
+  languageCode = "zh-cn"
+  languageName = "简体汉语"
+  contentDir = "content/zh-cn"
+  title = "漢黨Han Party"
+
+[zh-tw]
+  languageCode = "zh-tw"
+  languageName = "正體漢語"
+  contentDir = "content/zh-tw"
+  title = "漢黨Han Party"

@@ -1,0 +1,49 @@
+[[main]]
+  name = "首頁"
+  url = "/"
+  weight = 1
+
+[[main]]
+  name = "關於漢黨"
+  url = "/about/"
+  weight = 2
+
+[[main]]
+  name = "公告"
+  url = "/proclamation/"
+  weight = 3
+
+[[main]]
+  name = "新聞"
+  url = "/news/"
+  weight = 4
+
+[[main]]
+  name = "組織"
+  url = "/organization/"
+  weight = 5
+
+[[main]]
+  name = "文章"
+  url = "/articles/"
+  weight = 6
+
+[[main]]
+  name = "貼子"
+  url = "/posts/"
+  weight = 7
+
+[[main]]
+  name = "視頻"
+  url = "/videos/"
+  weight = 8
+
+[[main]]
+  name = "文檔"
+  url = "/docs/"
+  weight = 9
+
+[[main]]
+  name = "交流"
+  url = "/communication/"
+  weight =10

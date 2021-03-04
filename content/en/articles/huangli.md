@@ -1,0 +1,15 @@
+---
+title: "Yellow calendar"
+date: 2021-02-22T10:58:17+08:00
+draft: false
+---
+
+The Yellow calendar, that is, the Yellow Emperor calendar, is a traditional Chinese calendar. It is the ancient six calendars with the Xia calendar, Yin calendar, Zhou calendar, Lu calendar and Zhuanxu calendar. According to a large number of historical records, it was made after Emperor Huang broke Chiyou. It is said that the calendar year began from the day when the yellow emperor ascended the throne. Xuanyuan Yellow Emperor was the cultural ancestor of Huayi, and was the same ancestor of Huayi with Shennong Yan Emperor, Dongyi people and Chiyou of Miao people (there are three ancestral halls of China in Zhuolu, Hebei). The two emperors of Yan and Huang opened up territory and promoted national integration. It created Chinese civilization and Chinese culture. Delimiting Kyushu, fixing the Central Plains and reproducing the Chinese people. The descendants of Yanhuang are called common people, and the descendants of Chiyou are called Limin. It is the basis of the formation of the Chinese nation.
+
+
+
+In 2697 BC, the yellow emperor made Jiazi, which is the first year of the Yellow calendar. From the Yellow Emperor's battle with Chiyou, Yu guangchengzi was asked, to Jiutianxuannu's face-to-face teaching of military amulets and swords to the Yellow Emperor, who created Jiazi to record the year, and finally the yellow emperor ascended to heaven by taking advantage of the dragon. Therefore, the Yellow Emperor was regarded as the model of the Emperor's becoming an immortal, known as the ancestor of Taoism, Lao Tzu as the ancestor of Taoism, and Zhang Daoling established a complete Taoist system, known as the ancestor of Taoism. In 2697 BC, the yellow emperor made Jiazi, which is the first year of the Yellow calendar. From the Yellow Emperor's battle with Chiyou, Yu guangchengzi was asked, to Jiutianxuannu's face-to-face teaching of military amulets and swords to the Yellow Emperor, who created Jiazi to record the year, and finally the yellow emperor ascended to heaven by taking advantage of the dragon. Therefore, the Yellow Emperor was regarded as the model of the Emperor's becoming an immortal, known as the ancestor of Taoism, Lao Tzu as the ancestor of Taoism, and Zhang Daoling established a complete Taoist system, known as the ancestor of Taoism.
+
+
+
+The year of A.D. is also called the year of A.D., which is called "the Western yuan" or "the year of A.D." for short. The Western era is the Christian calendar. In Medieval Latin, it was written as Anno Domini, abbreviated as ad, which means "in the year of the Lord". The first year of the era is the year of Jesus' birth recognized by Dionysius in 525. BC means BC in English, that is, before Christ. The Gregorian calendar is the calendar used in the Western era. It is usually called "the Western calendar and the Gregorian calendar", which is the current calendar in China.
